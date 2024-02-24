@@ -54,7 +54,7 @@ print_results()
     echo "Up to date repositories: $1"
   fi
 
-  echo "- run listrepositories to see the list"
+  echo "- run listrepos to see the list"
 }
 
 # checks repository status for each repo in the list
